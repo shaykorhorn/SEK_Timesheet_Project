@@ -1,0 +1,155 @@
+﻿Initials,Date,Course_ID,Time(m),Summary
+SK,1/8/24,ACCT,50,Introduction to course and syllabus
+SK,1/9/24,DS,75,"First day of Class, completed the introduction quiz"
+SK,1/9/24,BUSA,75,"First day of Class, completed lab 1 during classtime"
+SK,1/10/24,ACCT,50,"Quiz on syllabus, then got into introduction notes"
+SK,1/10/24,STUDY,120,Studied introduction notes from ACCT-102 
+SK,1/11/24,DS,75,Python notes
+SK,1/11/24,BUSA,75,Notes and Lab 2
+SK,1/12/24,ACCT,50,Chapter 1 Notes and Lecture
+SK,1/12/24,ENGL,60,Worked and finished module and powerpoint slides
+SK,1/12/24,STATS,30,Introduction homework on connect
+SK,1/15/24,ACCT,50,Continue Chapter 1 Notes and Lecture
+SK,1/16/24,DS,75,In class group assignment
+SK,1/16/24,BUSA,75,"Lecture Notes and Slides, Finish Lab and Quiz"
+SK,1/17/24,ACCT,50,Quiz on Chapter 1
+SK,1/17/24,STUDY,45,Looked over notes for all classes
+SK,1/18/24,DS,75,Python notes
+SK,1/18/24,BUSA,75,"Lecture Notes and Slides, Finish Lab "
+SK,1/19/24,ACCT,50,Chapter 2 Notes and Lecture
+SK,1/19/24,ENGL,30,"Read slides and start book, answer discussion post"
+SK,1/19/24,STATS,120,Chapter 1 homework
+SK,1/22/24,ACCT,50,Continue Chapter 2 Notes and Lecture
+SK,1/23/24,DS,75,Python Notes
+SK,1/23/24,BUSA,75,Lab and Quiz
+SK,1/24/24,ACCT,50,Continue Chapter 2 Notes and Lecture
+SK,1/24/24,STUDY,60,Studied Accounting and stats notes
+SK,1/25/24,DS,75,Started in class group assignment and python notes
+SK,1/25/24,BUSA,75,Lecture notes 
+SK,1/26/24,ACCT,50,Chapter 3 Notes and Lecture
+SK,1/26/24,ENGL,60,Finish reading book and answer discussion post
+SK,1/26/24,STATS,75,Continued chapter 1 homework
+SK,1/29/24,ACCT,50,Quiz on Chapter 2
+SK,1/30/24,DS,75,In class group assignment
+SK,1/30/24,BUSA,75,Lecture notes and lab
+SK,1/31/24,ACCT,50,Continue Chapter 3 Notes and Lecture
+SK,1/31/24,STUDY,80,Studied Accounting and stats ntoes
+SK,2/1/24,DS,75,Python notes
+SK,2/1/24,BUSA,75,"Lecture notes, lab and quiz"
+SK,2/2/24,ACCT,50,Continue Chapter 3 Notes and Lecture
+SK,2/2/24,ENGL,80,Powerpoint slides and take notes
+SK,2/2/24,STATS,40,Chapter 2 homework
+SK,2/5/24,ACCT,50,Quiz on Chapter 3
+SK,2/6/24,DS,75,In class group assignment completed
+SK,2/6/24,BUSA,75,Lab and quiz
+SK,2/7/24,ACCT,50,Chapter 4 Notes and Lecture
+SK,2/7/24,STUDY,70,Studied notes from all classes
+SK,2/8/24,DS,75,Python notes
+SK,2/8/24,BUSA,75,Lecture Notes
+SK,2/9/24,ACCT,50,Continue Chapter 4 Notes and Lecture
+SK,2/9/24,ENGL,20,Powerpoint slides and discussion posts
+SK,2/9/24,STATS,50,Continued Chapter 2 homework
+SK,2/12/24,ACCT,50,Quiz on Chapter 4 Notes and Lecture
+SK,2/13/24,DS,75,Python notes on seaborn
+SK,2/13/24,BUSA,75,Lab and begin creating our websites
+SK,2/14/24,ACCT,50,Quiz on what we have learned
+SK,2/15/24,DS,75,Class Notes
+SK,2/15/24,BUSA,75,Lab and Quiz
+SK,2/16/24,ACCT,50,Chapter 5 Lecture
+SK,2/16/24,STATS,30,Homework
+SK,2/16/24,STUDY,60,Study accounting
+SK,2/19/24,ACCT,50,Chapter 6 Lecture
+SK,2/20/24,DS,75,Work on assignment
+SK,2/20/24,BUSA,75,"Partner Presentation, Quiz and lab"
+SK,2/21/24,ACCT,50,Chapter 7 Lecture
+SK,2/22/24,DS,75,Class Notes
+SK,2/22/24,BUSA,75,Lab
+SK,2/23/24,ACCT,50,Exam
+SK,2/23/24,STATS,50,Homework and survey
+SK,2/23/24,STUDY,30,Study all classes and catch up on assignments
+SK,2/26/24,ACCT,N/A##,SPRING BREAK##
+SK,2/27/24,DS,N/A,SPRING BREAK
+SK,2/27/24,BUSA,N/A,SPRING BREAK
+SK,2/28/24,ACCT,N/A,SPRING BREAK
+SK,2/29/24,DS,N/A,SPRING BREAK
+SK,2/29/24,BUSA,N/A,SPRING BREAK
+SK,3/1/24,ACCT,N/A,SPRING BREAK
+SK,3/1/24,STATS,N/A,SPRING BREAK
+SK,3/1/24,STUDY,N/A##,SPRING BREAK##
+SK,3/4/24,ACCT,50,Chapter 8 Lecture
+SK,3/5/24,DS,75,Class Notes
+SK,3/5/24,BUSA,75,Lab and Quiz
+SK,3/6/24,ACCT,50,Chapter 8/9 Lecture
+SK,3/7/24,DS,75,Project Due 
+SK,3/7/24,BUSA,75,Partner Presentation and Class Discussion
+SK,3/8/24,ACCT,50,Chapter 9/10 Lecture
+SK,3/8/24,STATS,30,Work on homework
+SK,3/8/24,STUDY,30,"Make up lab and quiz for BUSA, ACCT study"
+SK,3/11/24,ACCT,50,Chapter 10 Lecture and Homework
+SK,3/12/24,DS,75,Work on assignment
+SK,3/12/24,BUSA,75,Lab and Quiz
+SK,3/13/24,ACCT,50,Quiz on Chapters
+SK,3/14/24,DS,75,Class Notes and Lecture
+SK,3/14/24,BUSA,75,Partner Presentation with Class Discussion
+SK,3/15/24,ACCT,50,Chapter 11 Lecture
+SK,3/15/24,STATS,45,Homework and finish survey
+SK,3/15/24,STUDY,60,"Work on team project, work on homework "
+SK,3/18/24,ACCT,50,Go over Homework
+SK,3/19/24,DS,75,Class Notes and work on assignment
+SK,3/19/24,BUSA,75,Lab
+SK,3/20/24,ACCT,50,Chapter 12 Lecture
+SK,3/21/24,DS,75,Team Project Due
+SK,3/21/24,BUSA,75,Lab and Quiz
+SK,3/22/24,ACCT,50,Chapter 13 Lecture
+SK,3/22/24,STATS,30,Homework and start final paper
+SK,3/22/24,STUDY,90,Stats homework and prepare for class discussion
+SK,3/25/24,ACCT,50,Quiz on Chapters
+SK,3/26/24,DS,75,Class Notes and Lecture
+SK,3/26/24,BUSA,75,Partner Presentation with Class Discussion
+SK,3/27/24,ACCT,50,Lecture Notes
+SK,3/28/24,DS,N/A##,EASTER BREAK##
+SK,3/28/24,BUSA,N/A,EASTER BREAK
+SK,3/29/24,ACCT,N/A,EASTER BREAK
+SK,3/29/24,STATS,N/A,EASTER BREAK
+SK,3/29/24,STUDY,N/A,EASTER BREAK
+SK,4/1/24,ACCT,N/A##,EASTER BREAK##
+SK,4/2/24,DS,75,Class Notes and Lecture
+SK,4/2/24,BUSA,75,Partner Presentation and Class Discussion
+SK,4/3/24,ACCT,50,Review of homework and chapter
+SK,4/4/24,DS,75,Class Notes and work on assignment
+SK,4/4/24,BUSA,75,Quiz and Lab
+SK,4/5/24,ACCT,50,Quiz
+SK,4/5/24,STATS,60,Continue on final paper and homework
+SK,4/5/24,STUDY,55,More work on final paper
+SK,4/8/24,ACCT,50,Paper due on Business Ethics
+SK,4/9/24,DS,75,Mini assignment is due today
+SK,4/9/24,BUSA,75,Go over Lab
+SK,4/10/24,ACCT,50,In class assignment on being ethical in business
+SK,4/11/24,DS,75,Team Project Due and Podcast Summary is due
+SK,4/11/24,BUSA,75,Partner Presentation with Class Discussion
+SK,4/12/24,ACCT,50,Quiz
+SK,4/12/24,STATS,90,Finish final paper
+SK,4/12/24,STUDY,50,Prepare for ACCT quiz and homeworks
+SK,4/15/24,ACCT,50,Review of chapter
+SK,4/16/24,DS,75,Class Notes and Lecture
+SK,4/16/24,BUSA,75,Presentation and Quiz and Lab
+SK,4/17/24,ACCT,50,Quiz 
+SK,4/18/24,DS,75,Class Notes and work on assignment
+SK,4/18/24,BUSA,75,Lab 24 and Quiz
+SK,4/19/24,ACCT,50,Review on first half of chapters for final exam
+SK,4/19/24,STATS,50,Homework
+SK,4/19/24,STUDY,120,Catch up on assignments and study for exams
+SK,4/22/24,ACCT,50,Review on second half of chapters
+SK,4/23/24,DS,75,"In class work with SQL, Individual Assignment due"
+SK,4/23/24,BUSA,75,Review over final Lab 25
+SK,4/24/24,ACCT,0,Class Cancelled
+SK,4/25/24,STUDY,120,"Study for Accounting Exam, Complete all stats homeworks"
+SK,4/25/24,STUDY,60,"Study for Accounting Exam, catch up on assignments"
+SK,4/26/24,STUDY,,
+SK,4/26/24,STUDY,,
+SK,4/29/24,ACCT,,Final Exam for Accounting 102
+SK,4/30/24,BUSA,,Final Exam for BUSA 245
+SK,5/1/24,STUDY,,
+SK,5/2/24,DS,,Final Exam for DS 160
+SK,5/2/24,STATS,,All Statistics Homework is due
+SK,5/3/24,STATS,,Final Statistics paper is due
